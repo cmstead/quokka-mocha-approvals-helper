@@ -11,7 +11,7 @@ Install with npm:
 Add to your approvals configuration:
 
 ```
-require('quokka-mocha-approvals-helper');
+require('quokka-mocha-approvals-helper')();
 
 const approvalConfig = { 
     reporter: chooseReporter('kdiff3')

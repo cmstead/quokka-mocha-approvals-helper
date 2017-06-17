@@ -1,6 +1,6 @@
 {
   "name": "quokka-mocha-approvals-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quokka plugin for running approvals in the mocha environment",
   "main": "index.js",
   "scripts": {
